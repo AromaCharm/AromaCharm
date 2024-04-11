@@ -161,21 +161,13 @@ You can click the Preview link to take a look at your changes.
         <div class="container">
             <h2 class="section-heading">Contactez-nous</h2>
             <p class="section-content">Besoin d'aide ou avez-vous des questions ? Contactez notre équipe de service clientèle pour obtenir de l'aide personnalisée.</p>
-            <p class="section-content">Téléphone : 123-456-7890 | Email : info@parfumspardise.com</p>
-        </div>
-    </section>
+            <p class="section-content">Téléphone : 123-456-789 | Email : info@parfumspardise.com</p>
+        </div> 
+    </section/>
     <footer>
         <p>&copy; 2024 Parfums Paradise - Tous droits réservés</p>
     </footer>
 </body>
 
     <section>
-        <h2>Bienvenue sur Parfums Paradise</h2>
-        <p>Découvrez notre large sélection de parfums pour hommes et femmes.</p>
-        <p>Explorez notre catalogue et trouvez le parfum parfait pour vous.</p>
-    </section>
-    <footer>
-        <p>&copy; 2024 Parfums Paradise - Tous droits réservés</p>
-    </footer>
-</body>
 </html>
